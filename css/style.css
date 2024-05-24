@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  color: greenyellow;
+}
+body {
+  background-color: #31afba;
+}
+p {
+  text-align: center;
+}
+.pizza-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+a {
+  color: greenyellow;
+}
+footer {
+  display: flex;
+  justify-content: space-evenly;
+}
